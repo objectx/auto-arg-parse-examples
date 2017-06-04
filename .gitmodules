@@ -1,0 +1,3 @@
+[submodule "ext/auto-arg-parse"]
+	path = ext/auto-arg-parse
+	url = https://github.com/SaadAttieh/auto-arg-parse.git
